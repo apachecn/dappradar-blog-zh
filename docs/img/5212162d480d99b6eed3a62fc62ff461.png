@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Just a moment...</title>
+  <style>
+    html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+    body {background-color: #ffffff; color: #000000; font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue",Arial, sans-serif; font-size: 16px; line-height: 1.7em;-webkit-font-smoothing: antialiased;}
+    h1 { text-align: center; font-weight:700; margin: 16px 0; font-size: 32px; color:#000000; line-height: 1.25;}
+    p {font-size: 20px; font-weight: 400; margin: 8px 0;}
+    p, .attribution, {text-align: center;}
+    #spinner {margin: 0 auto 30px auto; display: block;}
+    .attribution {margin-top: 32px;}
+    @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+    #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+    #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+    .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+    a { color: #2c7cb0; text-decoration: none; -moz-transition: color 0.15s ease; -o-transition: color 0.15s ease; -webkit-transition: color 0.15s ease; transition: color 0.15s ease; }
+    a:hover{color: #f4a15d}
+    .attribution{font-size: 16px; line-height: 1.5;}
+    .ray_id{display: block; margin-top: 8px;}
+    #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+    #cf-hcaptcha-container { text-align:center;}
+    #cf-hcaptcha-container iframe { display: inline-block;}
+  </style>
+
+      <meta http-equiv="refresh" content="35">
+  <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "non-interactive",
+        cNounce: "88437",
+        cRay: "735e6f64f8199648",
+        cHash: "54bdc09e982b203",
+        cUPMDTk: "\/blog\/static\/a44dd7ad73bbc296445b66350c3aef58\/6c4f6\/dappradar.com-velo-token-scam-leaves-users-feeling-betrayed-token-swap-block.jpg?__cf_chl_tk=Pq0tiWjDVUeBOD6sjs5dOg7Ufd6xTSq4FdQojlMno24-1659690998-0-gaNycGzNBr0",
+        cFPWv: "g",
+        cTTimeMs: "1000",
+        cRq: {
+          ru: "aHR0cHM6Ly9kYXBwcmFkYXIuY29tL2Jsb2cvc3RhdGljL2E0NGRkN2FkNzNiYmMyOTY0NDViNjYzNTBjM2FlZjU4LzZjNGY2L2RhcHByYWRhci5jb20tdmVsby10b2tlbi1zY2FtLWxlYXZlcy11c2Vycy1mZWVsaW5nLWJldHJheWVkLXRva2VuLXN3YXAtYmxvY2suanBn",
+          ra: "R28taHR0cC1jbGllbnQvMS4x",
+          rm: "R0VU",
+          d: "2178wVUQltbS01sYBLwQbFlNdN6Efpa1dyDSzdrbo9F0V3XjMigTucQhGw2MFtU9AfwRxrGcsv1ihq7JlhXnrFHut5qI0AN7aTHIX9KCKdIBBpqyog1AR6Is/4k12hF0ifY5U2le97ilZk4eUa6TvfpMNyQAdoB7lctJHQvHvYy+WLjeCi/NI3yXUOsVRLBDWhUNpjNwyUrQLP7gN5gl1v3xQmQV/EtSQI5w+j2s22rHwEW2dFvuzRP6AZ3d3HVn2rdvNtQjB2CoE3F92TCQvgMxDOC0Fia4oLbEgUWPLoUgQ+5n3k3oqQpa3kizHloKDYaSlC2ANnP2Wsx1znV5uHzagZ7Pu/beyCSxklEctZXLbKlmO4z3ks4jn//B1eXdML4a4EPs7DRXQPb39l7eCMZPd45VmqZL58VHOZ2mwVnTFsGVK0xk+2SzROEcWPfSQK74JnTRglYQJJIWS+oLZSs6bcKN+Zyw+fOwy5n0AGZ/x6KqKQOYWBSJQCN2kEq4WETrs8yiJ3EL7mPEjra90q2gOw/f8N5HjYWSEkkd4WR3v7wopbyXZKeHHy+Lsh1iP+YV6hklxx7DZQi2LgMBVw==",
+          t: "MTY1OTY5MDk5OC41NTQwMDA=",
+          m: "JRaK38kjaAJLk46UrQbzRiPdZCnhvIstbgpJgIl6i50=",
+          i1: "aVeTL9M2m1fsLSVpCJMPwQ==",
+          i2: "V+7zLJXmBoP3SXQez+zYew==",
+          zh: "xRUHTCmSuR6VHLM2YYq+771seQ7Xo/hdYdQhhSApaMI=",
+          uh: "wORYEZl9l8kk4hKJoShl+Zj7lUypX2tOAo/ovZ+7Bo0=",
+          hh: "k6TLAdt7VIDjNyl2ig5SaXqdwx11cb3+lO1SA4QGYIU=",
+        }
+      }
+      window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+    //]]>
+  </script>
+  
+
+</head>
+<body>
+  <table width="100%" height="100%" cellpadding="20">
+    <tr>
+      <td align="center" valign="middle">
+          <div class="cf-browser-verification cf-im-under-attack">
+  <noscript>
+    <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+  <div id="cf-content" style="display:none">
+    
+    <div id="cf-bubbles">
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+    </div>
+    <h1><span data-translate="checking_browser">Checking your browser before accessing</span> dappradar.com.</h1>
+    
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+    <p data-translate="process_is_automatic">This process is automatic. Your browser will redirect to your requested content shortly.</p>
+    <p data-translate="allow_5_secs" id="cf-spinner-allow-5-secs" >Please allow up to 5 seconds&hellip;</p>
+    <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting&hellip;</p>
+  </div>
+   
+  <form id="challenge-form" class="challenge-form" action="/blog/static/a44dd7ad73bbc296445b66350c3aef58/6c4f6/dappradar.com-velo-token-scam-leaves-users-feeling-betrayed-token-swap-block.jpg?__cf_chl_f_tk=Pq0tiWjDVUeBOD6sjs5dOg7Ufd6xTSq4FdQojlMno24-1659690998-0-gaNycGzNBr0" method="POST" enctype="application/x-www-form-urlencoded">
+    <input type="hidden" name="md" value="PgAsZ_0zent_0Hk1v9FhBkjScI0KCs8wTDG09zEQQdY-1659690998-0-Adro5xk-LBS3rOFmo69tM06yA3aXSPlfUHpOovtk6sFTqGQ2TqrMafi8qfQuvjOVBemlxRvZKH5fXOpA1yHbEhkBBJGMhy-CbKq6uA-hVgcJFsZP8YE0Imwhq9_4Ta6UrM5l6FgYuAkl15pxrYae6PQ2bOQBnWv5WhQq3RMhEnkyyYM3JFDnkD_YIJQg_NOxiAReQ7WjZb3QLMFVvdM-Qhy1wo6GeL-vvrHbDMt2egrIQBSEIfO2FK46SN7UCIrd6SPZiuYNZecZeQ6LKf9xqsmC7jgFJZl0Sr1f7VRGZnwIpo0zOUWj30lA9-Y9YI110O3pDkEhs0KzdtueURlA7Q02MJdmTJKRcNtoCyomvtIro3HlTj8Sr8LXchC8I4wS2DeDuswtTsfGQJWl5ngxZxqHbF1VGwQgxeczRT1lFvtgh0GCdCxGrYiAVJlBi7UfYcVHg04WiEoXA4FNLmod01L3P9nyVqRbKq8ATqcINin_1DxEd2l3VL4hqERAySs545ncziH9HVS91pHQgvH4UEBhHKeNrdWF7jLxshcAGIK0jwAf2U-Q5_C3tAdPEcpZxtl9NEBOSJMVeQAGwKYzS07aLsCSh5cHzPNNVMLIGuTL1DCpNYZTxRZYHXUkmf3DPZ5-HZR1XDqvOGXKDeZZfXdcgAfN2tPossT5WcSbCJtL46-yrPLBd1yyFb1v7RLvWqa2Zjn-HNpO0shyOFFF7LDP1HjJCtFGgQYea_J7N8lCKx2F_sTIRpms6pLM47Dl_mB-8SNXKIf9GHHjaCN74g-cCPZpdB5BAae2WqK9PWwkE78NVIGgOAp7B-2jvW4_LyfD2AuVQM0E7ShosZ6AJtUmosjMX2E7w5qtyyjGYKRQr3mIWYBVsxtraR7l7D1ErBMyUoBm75lPtm-dh30HH0UGTZoRjbIQJghhfg7afqVq94-RTVpdDRA7v3SfzWUong" />
+    <input type="hidden" name="r" value="CLNS2StahHY311pJzBtCggpL8OFHfAn4g_eyVqARV9U-1659690998-0-Afmo/VDV/3LIW9nY9cOY7zcuWKcESXi6+Y4O3QnAyQ8YIbWoUXbFxQY0Gl2QM9HPIDWgpqW1WJQL1n8fpGqVw92vHCi0sVjFdB7qh6prUNATwnbcbooLbGkMVDRGyUxSJ6Oi1Rc3VSJI/JruTq/6lUZuKBZlF72fLrSHH1oXe+CNWoi6QtcxhrjgiZffQa39drY/OOg/R6Q/CPR+epEXOtb/q+0OF69QnJArHUAK8v+qv4iSf9e3CQAAIqvjxQY1GQk+NU04ovo+MThk62h1I50RiiUcccwfhX9bDbQYiUP4bSn7cDEHV30dggLUkIy041CuuKMmccBlNNJVtgDM0UGc+yWd+/LBe1lQl0RXWE9a7GGq3FAx2Dy/VoAoW7ghDUKP8tJeSBCA4p6v3a8gFquW2Gv1wxevIyuKte43oXPpn4l1H2gdYAzaz7U1l6Bgu3YDHk6gy+KAylv0fJXQlvh9aihRkQVkKaOZoJoaMiDHaGgYLOhzuzuhcqi33DWbo3KLqM66u5Bwh7QCLDtS1R4+pj6Wu1OKJLU21nx1YlRYVAmVYDBKponCLa0Lk42qJd/uSIyumaLnlXPhJNTWKYKn0Qn4LFa0cYv8mJ6izVC9Q2G4t248lfIGTzZsOZ8rQGjzPnjENQwHFNXRDVOpsMdEORjDrtAkr1s8DTbfuDUqei+TnkSfB0EP2Kc9xbTcYhR35Mp8ABlVvgXwSgmSvT8PTe0c91XeTmAxQlWSZmEFXxMUqR1NuAfiKvNenHhvhpXC3bN8DPKuM8WQHqUQ56YbNZmL1Ph6nKRWwMBNun+xyrSk411UaYBlIcdrxLbxSDcgqBpCOzium0/zSQHb1TWQy+RIrloCNkY1rr1GXQymcAFmq1Gp1o1Wn9gc3nnDavHymMfcFnHIlomF2Lvp/GghkdH7vAn91L+KrHUVsYPEMn2doHiz6h18Bt9PrCAh1MLHappviB1gByIhamaOetMtEFRKMT87FIAsNKNGXjSzFVfj81GYldo/BqYU3QkY1IsGCGAry+Kmh6+2dHvzqYu0PR4b7h11QHbXbGWSLbzF1aaW3tYq72y9JpUEk02U3FTHpZ0O0a3OynOIP93OI5HXWhoTNfWBKTLWa3NlfxNdfHm6DSzhGwAhspvDUQ9ERnOrzyY/Z0nMwxkQja7elWJLviodANZofC1O73Nnw8aF1Oj+vUrzc8gQttoxH4D9SaTQ9ouPiFr9NfBOW72wETBrrmgV/714b8lrrm48FrQHTNIV+TIL/gY6maikiBhU+sRmhiZxoXbjoe1Oj9uyAf1HU+wHDWDm+jroCiDuoQkAY3ij8Wz9I7u8TQumIf/Tx4Xer9md2dwB7Z5DkxPQi9UIP6IiE92jPwkEi99POad6x8Vts7X+2L/2zecBp6OMTOAYEV5mJFYn/RqAM/BxvMT5LeC0mABxINn4Wm3OSDgAppfD2NYSNKysX3Mq7LihxnzKR9a/GtK6FrCtUy6PG7bbzjrYswCHaFwhItRbrEyjZNNGvgaMwAgwNPmDUCg1xYgoxRzVji9w+t+yZSvNIkpLAzWS0mkBySgiU0fQzUBlDm/9qLLxd+1m82fhB28MMz23pIczDCx6MOg8cdWPXy3/0+Ls7a+2j6hGgc8s1kktLgfa7oTaUuoAmi9QK0u0FQ=="/>
+    <input type="hidden" name="pass" value="1659690999.554-1b3ZceNCgE"/>
+  </form>
+       <script>
+      //<![CDATA[
+      (function(){
+          var a = document.getElementById('cf-content');
+          a.style.display = 'block';
+          var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+          var trkjs = isIE ? new Image() : document.createElement('img');
+          trkjs.setAttribute("src", "/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=735e6f64f8199648");
+          trkjs.id = "trk_jschal_js";
+          trkjs.setAttribute("alt", "");
+          document.body.appendChild(trkjs);
+          var cpo=document.createElement('script');
+          cpo.type='text/javascript';
+          cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=735e6f64f8199648';
+          
+          window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+          window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+          if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/blog\/static\/a44dd7ad73bbc296445b66350c3aef58\/6c4f6\/dappradar.com-velo-token-scam-leaves-users-feeling-betrayed-token-swap-block.jpg?__cf_chl_rt_tk=Pq0tiWjDVUeBOD6sjs5dOg7Ufd6xTSq4FdQojlMno24-1659690998-0-gaNycGzNBr0" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+              history.replaceState(null, null, ogU);
+            };
+          }
+          
+          document.getElementsByTagName('head')[0].appendChild(cpo);
+        }());
+      //]]>
+    </script>
+
+  
+  <div id="trk_jschal_nojs" style="background-image:url('/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=735e6f64f8199648')"> </div>
+</div>
+
+          
+          <div class="attribution">
+            DDoS protection by <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a>
+            <br />
+            <span class="ray_id">Ray ID: <code>735e6f64f8199648</code></span>
+          </div>
+      </td>
+     
+    </tr>
+  </table>
+</body>
+</html>

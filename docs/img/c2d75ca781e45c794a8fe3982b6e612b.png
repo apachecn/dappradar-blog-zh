@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Just a moment...</title>
+  <style>
+    html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+    body {background-color: #ffffff; color: #000000; font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue",Arial, sans-serif; font-size: 16px; line-height: 1.7em;-webkit-font-smoothing: antialiased;}
+    h1 { text-align: center; font-weight:700; margin: 16px 0; font-size: 32px; color:#000000; line-height: 1.25;}
+    p {font-size: 20px; font-weight: 400; margin: 8px 0;}
+    p, .attribution, {text-align: center;}
+    #spinner {margin: 0 auto 30px auto; display: block;}
+    .attribution {margin-top: 32px;}
+    @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+    #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+    #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+    .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+    a { color: #2c7cb0; text-decoration: none; -moz-transition: color 0.15s ease; -o-transition: color 0.15s ease; -webkit-transition: color 0.15s ease; transition: color 0.15s ease; }
+    a:hover{color: #f4a15d}
+    .attribution{font-size: 16px; line-height: 1.5;}
+    .ray_id{display: block; margin-top: 8px;}
+    #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+    #cf-hcaptcha-container { text-align:center;}
+    #cf-hcaptcha-container iframe { display: inline-block;}
+  </style>
+
+      <meta http-equiv="refresh" content="35">
+  <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "non-interactive",
+        cNounce: "54116",
+        cRay: "735e6f64ff7e6428",
+        cHash: "79275458464a27e",
+        cUPMDTk: "\/blog\/static\/89f67175169fe1f5a89841a27256a03d\/95fae\/dappradar.com-play-to-earn-top-performers-in-july-dappradar.png?__cf_chl_tk=92g55E0RMy1UM1mAbwGFBKFyApwsKS3DhV.hTXxrlCI-1659690998-0-gaNycGzNBqU",
+        cFPWv: "g",
+        cTTimeMs: "1000",
+        cRq: {
+          ru: "aHR0cHM6Ly9kYXBwcmFkYXIuY29tL2Jsb2cvc3RhdGljLzg5ZjY3MTc1MTY5ZmUxZjVhODk4NDFhMjcyNTZhMDNkLzk1ZmFlL2RhcHByYWRhci5jb20tcGxheS10by1lYXJuLXRvcC1wZXJmb3JtZXJzLWluLWp1bHktZGFwcHJhZGFyLnBuZw==",
+          ra: "R28taHR0cC1jbGllbnQvMS4x",
+          rm: "R0VU",
+          d: "hLLBAzEh6IqFHVvCboQpxwpkhu+N6Hmm9PYfBeBH4SvQ+w/M1IGsS8LewM/OwrUYuzglex4F9eCtSyHIxl1/nDT3HuoaRiyJPJHncYR4cuYFeig/xD4iOD2PueMPgcFRPtE2hksEuqZ8WPqevTi4O+EM8/NbyhdRmWViv3UMhfZJI7I4antEhI4RS82ZMMycKAZUP8zWOcCAFLEfoj+vIZuaelg2ko54yVExcFzfLMfaF4U7kPaX0cfbFxUXhznoXlpoViYZqhUOzcN6uvU0OzDq1kTGeBDtA9Gh4bvbhUeDJahzBAMgZhHOdWeQZWsfNF9mb89JJqIoDiavmpQFBe088UxUfA287WssaxCbM+qmS6/d6d5l3I94oX3+kuBhIJhUeOjLY0bYKreOX8fulvlSDtNhoQM/6iaFSw7G8CzKm3zO+IasnpNmZTNkGiH9xLXRTCCgxA+1bt8kCMG3ZJZ30UKNZdAhYiUQizKoUC/a5Q9NNS/xVQ+hvM8XEG4uftKtHYkrkeowp+1SS9TPQiMVINZbkwNAX/lhEzAgSbZAy0n1MFaRYLDeM3wjK4yM3febfrcko69yW9unnEtqEA==",
+          t: "MTY1OTY5MDk5OC42MDgwMDA=",
+          m: "KDZpUQHMn4OrsUypzCBzxe4xLEkLez1ozLTSohlmEIs=",
+          i1: "7SHWpHBU56dmFb0iLRjueg==",
+          i2: "+kpHqm/wqTtkDgq2BFmTgA==",
+          zh: "xRUHTCmSuR6VHLM2YYq+771seQ7Xo/hdYdQhhSApaMI=",
+          uh: "wORYEZl9l8kk4hKJoShl+Zj7lUypX2tOAo/ovZ+7Bo0=",
+          hh: "k6TLAdt7VIDjNyl2ig5SaXqdwx11cb3+lO1SA4QGYIU=",
+        }
+      }
+      window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+    })();
+    //]]>
+  </script>
+  
+
+</head>
+<body>
+  <table width="100%" height="100%" cellpadding="20">
+    <tr>
+      <td align="center" valign="middle">
+          <div class="cf-browser-verification cf-im-under-attack">
+  <noscript>
+    <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+  <div id="cf-content" style="display:none">
+    
+    <div id="cf-bubbles">
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+    </div>
+    <h1><span data-translate="checking_browser">Checking your browser before accessing</span> dappradar.com.</h1>
+    
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+    <p data-translate="process_is_automatic">This process is automatic. Your browser will redirect to your requested content shortly.</p>
+    <p data-translate="allow_5_secs" id="cf-spinner-allow-5-secs" >Please allow up to 5 seconds&hellip;</p>
+    <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting&hellip;</p>
+  </div>
+   
+  <form id="challenge-form" class="challenge-form" action="/blog/static/89f67175169fe1f5a89841a27256a03d/95fae/dappradar.com-play-to-earn-top-performers-in-july-dappradar.png?__cf_chl_f_tk=92g55E0RMy1UM1mAbwGFBKFyApwsKS3DhV.hTXxrlCI-1659690998-0-gaNycGzNBqU" method="POST" enctype="application/x-www-form-urlencoded">
+    <input type="hidden" name="md" value=".3pHxZOM3o1gJfITSemHS8aNrhBb4eCSfyfJ3yMszek-1659690998-0-AXoEaVQTNH0YA-P1RjGSUESnNpNjH-2H0v6eNZxGOvRZd_KEKrAimboxrVKUXDtNkX_SVJ12N7bSHiruFo2NG7iQWcPnk1Fi80DBnoxIBIagIypU9BJWGDaxXbse2ahTHxEzKnI0-sZ9nSHTwT6C_4Xux5VBGrHin6dQ11dUtsNOADi37AHYF7tSkKAV-f3XM8ECAYe_lADyiZTBrCiRRBvhAFCqWhGbXKFeQBD6wXEvVagPp0xjwUfSbMCZNtw32MatsOaj-TKnc3niBTtYSZ2X_dSWSTbOZeqRJKMV-AWslC6XXgySrgudqD2iG4VnqqAVvD-ynVIznn3UUpgsfG6V89EgFl4kaquivUJcNbQXlXVi4dR7vLmqiYTzcx4HahIX8t6Dl8dGy2H4yeDPe_Hv0TV4Ie53fKgyXBJ_2KwJNzrfMFO5YzTvtq4g54rGHO8FcCfbtnQ3LxbIiFcM9P56o0D_z2vNOnalgHi8HoSD4hQL8-t214wCvJ8ceGO4s6U8qy6S0hl1sASZyydMKg154VvghuvEd9kRTd3XZJjGrbbADSsnmwats4_CeRVbSyPMC6PyspIW_XORYErAiO8W2rcUG3D5bQWlpxOquFEjYYjW0hyKDZJzdcmdftVWOZ_CqGsRRv0Cz4yOFGTKwlxMY4NmZmBZPVLURpOjsliUTg6rvtYxbMEt2b7UvpcIEJ3npLw__HMlDiUi5QCIhvUsy0SNsQNkSKe-U6xNkSF1nmaf1JXATj2rBmbBRWOt5S0wi01no18wXiwBelgWLcgaH4WGoGpI-GvEg_YdcHJK4PqV2doK93uuo6gzR0Ngsb0h4_TCWHv10oZKdYOa3G7xD0BCZyF7iZBqvHpAzjhqAy87VVbadmw8G3UvUKHCEEAbYWGJAcmL4SU1-J6nfgE" />
+    <input type="hidden" name="r" value="poHz4z8ZzNE69Euw0UpiCXfCFeENttycdir6wjg1wnI-1659690998-0-AdrMDMLPbeBWe8bprUnpcCnDl5kmIAgcdmrDy+AVo8xUpze3dhYbjSJtciDUURjpLG/vS8evd98flHDedYfCIfxrpIk+mnt7mjLiHnuFTS+VU+mC3X7vb0qXrJOTxqMg4uRyXRYp+F9D83W8G7Fei+Xc4gkZ0yYS92a6PDHXqtQ/TH/eahVS9w++M9pQb6lWMIePP4xypDE7aykhIEkSvJrbNllmwg4Lg40CCMNm0ApRiuKIZVyrzD4DcCPRMyCsHSOy8H/kzM6t8KPCandGWLII8uBesf1DO+2uJJR/aqNRXqd8lmHP7KWbmaZfmNGuu3bfuK6Tz7SVsPltdn9MGbbQ6RT5SXyZfe+tNmeJ9yytfmtLdlwqGVarL4waJ0vx8hmJHyaVAP0kyNh2zLHRYEOWCit63SpfnrJd2eoybEoZpl/Bo+9IZ6kuYCQh9kCuk8BR0S2I9PBUoxf4/W3IbzOeP6GWggeor4Pj0BM9A4GCZLYIhCINvJKIrPBCMYjSDreN1YLTNQWmnFTGq3ffAPimF8snEm+WRp2/jhPzpzUr4pd77AbK1WhluykoJI+7mVIkD8kC0lq30LrRM7ogr8qCUS3hAR7bet84SA4Jy4Wue9Ht/i9RrEnaH54G0AxixjChRoZRJJx94SZl3p8smVOKBGfgoIzDEdqjM5MvoHIFZOYheQhqUhIyaTxssBkURaf1iVhc/6wyJnAJDI87Foglvb1wHLqBTwpaxNdu5rc8Js0ykOUWTUShDDaDEUqayh7jsSCNtAGdT2lxva5HMDcogcWarmMy48VG7I6XxTm4mqEg4iEvmYyGaBRKcjSt0E3L231prk+lFLRwz8iPnXcjLjvchXFnzZBWnqz/ZNKoqU85YOX+5eLoS+0zD15J+pzBwNrt0ho8szsNlAdbeYWIoqZaXTh/aRghAa1M2UUt0GX8JlDvRr8myoimdIKiHUlMEkXA0ZDfOfasBMc9hSEQSNp9o/ftSyxbVFiV4s8GnyBqlHTf/VNCh4QEA+JBSQmZGLSSQBttDt1fUI9kujHil745TKhr5zKoL1FAhlujq6iB/LrOc9PZ9sj8McqiN5oO6fPaHCcEZptXYUv6Q676njkMra+MtJyw1dBWRdcjm6Do3WmvoaWJnjFNvREc6aomG7OvcMMZwaFaq0VZxxdI5+oO6P7/Fixy54o3X/g13i4bA/wGsbZvfqwP7M1sEqkt1/bFH6xPA8/WVqBc2TGWna4LJd4MwvsajPoez5mvTTs4dI84x//120W/2KaH82AO3zngahI1c0cb7iVVrhRE8P06AGVbQtkfn9QfqaB7t8sK+rJSWm20r+FUgAd25OFAcHGQdgQU604CTFpvkxuXMmcEeLbxqHtmQRL71fBJMpbW1SLTGCletQ9fX329xgt1qXc1vc6tlUoCK9Z8DdZQmSHaekZl7LLRruSXmQXczS97k5dJVSUgXqqFEzOIxwgTOOGEVnICMzrHhQOS5utdMl/kIcVk3p8DLU1RpMVlhmRVqDhSdVFX8W0aJ/OltIPGvGc+qzElV44XdRSyvtbU11rjQ2EoaYuBiUBEF3pBoiFD++6gd/XcaVE14f7K2ELaeSazZQMu6FqhYED0L7NW7Cnj6+5h8MxZoRFSTT6D"/>
+    <input type="hidden" name="pass" value="1659690999.608-s/vWdXG9PX"/>
+  </form>
+       <script>
+      //<![CDATA[
+      (function(){
+          var a = document.getElementById('cf-content');
+          a.style.display = 'block';
+          var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+          var trkjs = isIE ? new Image() : document.createElement('img');
+          trkjs.setAttribute("src", "/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=735e6f64ff7e6428");
+          trkjs.id = "trk_jschal_js";
+          trkjs.setAttribute("alt", "");
+          document.body.appendChild(trkjs);
+          var cpo=document.createElement('script');
+          cpo.type='text/javascript';
+          cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=735e6f64ff7e6428';
+          
+          window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+          window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+          if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/blog\/static\/89f67175169fe1f5a89841a27256a03d\/95fae\/dappradar.com-play-to-earn-top-performers-in-july-dappradar.png?__cf_chl_rt_tk=92g55E0RMy1UM1mAbwGFBKFyApwsKS3DhV.hTXxrlCI-1659690998-0-gaNycGzNBqU" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+              history.replaceState(null, null, ogU);
+            };
+          }
+          
+          document.getElementsByTagName('head')[0].appendChild(cpo);
+        }());
+      //]]>
+    </script>
+
+  
+  <div id="trk_jschal_nojs" style="background-image:url('/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=735e6f64ff7e6428')"> </div>
+</div>
+
+          
+          <div class="attribution">
+            DDoS protection by <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a>
+            <br />
+            <span class="ray_id">Ray ID: <code>735e6f64ff7e6428</code></span>
+          </div>
+      </td>
+     
+    </tr>
+  </table>
+</body>
+</html>
